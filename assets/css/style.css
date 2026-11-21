@@ -17,12 +17,6 @@ header h1 {
     color:aliceblue;
 }
 
-header h2 {
-    font-size: 30px;
-    color:aliceblue;
-    text-align: left;
-}
-
 header nav { 
     padding-top: 15px;
     margin-right: 20px;
